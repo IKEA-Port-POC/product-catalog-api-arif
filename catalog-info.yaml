@@ -1,1 +1,8 @@
-
+metadata:
+  name: developer-portal
+  description: Providing self-serve access to tools and platform services, enabling engineering teams to move faster and go further.
+  annotations:
+    ingka.com/post-mortems: docs/internal/postmortems
+  tags:
+    - workflows
+    - go
